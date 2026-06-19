@@ -80,9 +80,6 @@ Match Quality:
 ## Example Output
 
 ```text
-Keypoints image 1: 2000
-Keypoints image 2: 2000
-
 Total matches: 541
 Good matches: 508
 Match quality: 93.90%
